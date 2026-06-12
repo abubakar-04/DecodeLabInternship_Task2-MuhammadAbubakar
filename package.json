@@ -1,0 +1,16 @@
+{
+  "name": "project-2-backend-api",
+  "version": "1.0.0",
+  "description": "DecodeLabs Project 2 - simple backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC"
+}
